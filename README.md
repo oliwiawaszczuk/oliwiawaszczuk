@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Oliwia!
+I'm a software developer who loves to build apps, games, and systems that make sense of the world. I enjoy working with databases because, in the end, everything is just structured data—except my sleep schedule.
 
-<!--
-**oliwiawaszczuk/oliwiawaszczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack:
+- 💻 Languages: JavaScript, TypeScript, Python, C#, C++
+- 📱 Frontend: React, React Native, Next.js, Zustand, Tailwind CSS, Material UI
+- 🛠 Backend: Flask, Node.js, SocketIO, REST API, bcrypt
+- 🎮 Game Dev: Unity, Godot
+- 🗄 Databases & Data Formats: SQL (PostgreSQL, MySQL, SQLite), JSON, XML
+- 📂 Other: Git, Postman
 
-Here are some ideas to get you started:
+### 🧪 Experimenting with:
+- 🌱 Unreal Engine, Docker, AI, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [📱 Mobile App for learning](https://github.com/oliwiawaszczuk/praMory) –  A mobile app built with React Native, utilizing the Memory Palace technique – a powerful method for enhancing learning and memory. I'm still actively working on this project.
+- [🎮 Godot Game](https://github.com/oliwiawaszczuk/praFarm2M) – A 2D farming game developed with Godot.
+- [💬 Chat](https://github.com/oliwiawaszczuk/GoodSocket) – A real-time chat application built with React and Flask.
+
+## 📫 Contact Me
+- 📧 Email: oliwiawaszczuk12321@email.com
+- 💼 Website: [Portfolio](https://portfolio-d4ztkt2r8-oliwiawaszczuks-projects.vercel.app/Portfolio/)
