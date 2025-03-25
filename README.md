@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Oliwia!
-I'm a software developer who loves to build apps, games, and systems that make sense of the world. I enjoy working with databases because, in the end, everything is just structured data—except my sleep schedule.
+I’m passionate about learning and building cool tech. From web apps to games, I enjoy experimenting with different technologies. I enjoy working with databases because, in the end, everything is just structured data - except my sleep schedule.
 
 ## 🔧 Tech Stack:
 - 💻 Languages: JavaScript, TypeScript, Python, C#, C++
@@ -7,10 +7,10 @@ I'm a software developer who loves to build apps, games, and systems that make s
 - 🛠 Backend: Flask, Node.js, SocketIO, REST API, bcrypt
 - 🎮 Game Dev: Unity, Godot
 - 🗄 Databases & Data Formats: SQL (PostgreSQL, MySQL, SQLite), JSON, XML
-- 📂 Other: Git, Postman
+- 📂 Other: Git
 
 ### 🧪 Experimenting with:
-- 🌱 Unreal Engine, Docker, AI, Bash
+- 🌱 Unreal Engine, Docker, Postman, AI, Bash
 
 ## 📌 Featured Projects
 - [📱 Mobile App for learning](https://github.com/oliwiawaszczuk/praMory) –  A mobile app built with React Native, utilizing the Memory Palace technique – a powerful method for enhancing learning and memory. I'm still actively working on this project.
