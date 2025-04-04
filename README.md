@@ -13,7 +13,7 @@ I’m passionate about learning and building cool tech. From web apps to games, 
 - 🌱 Unreal Engine, Docker, Postman, AI, Bash
 
 ## 📌 Featured Projects
-- [🌐 Portfolio](https://portfolio-oliwiawaszczuk-oliwiawaszczuks-projects.vercel.app/Portfolio/) - Website showcasing my projects. The site is currently a work in progress.
+- [🌐 Portfolio](https://portfolio-oliwiawaszczuks-projects.vercel.app/Portfolio/) - Website showcasing my projects. The site is currently a work in progress.
 - [📱 Mobile App for learning](https://github.com/oliwiawaszczuk/praMory) –  A mobile app built with React Native, utilizing the Memory Palace technique – a powerful method for enhancing learning and memory. I'm still actively working on this project.
 - [🎮 Godot Game](https://github.com/oliwiawaszczuk/praFarm2M) – A 2D farming game developed with Godot.
 - [💬 Chat](https://github.com/oliwiawaszczuk/GoodSocket) – A real-time chat application built with React and Flask.
