@@ -10,7 +10,7 @@ I’m passionate about learning and building cool tech. From web apps to games, 
 - 📂 Other: Git
 
 ### 🧪 Experimenting with:
-- 🌱 Unreal Engine, Docker, Postman, AI, Bash
+- 🌱 Unreal Engine, Docker, Postman, AI, Bash, Swift
 
 ## 📌 Featured Projects
 - [🌐 Portfolio](https://portfolio-oliwiawaszczuks-projects.vercel.app/Portfolio/) - Website showcasing my projects. The site is currently a work in progress.
