@@ -1,22 +1,12 @@
 # 👋 Hi, I'm Oliwia!
-I’m passionate about learning and building cool tech. From web apps to games, I enjoy experimenting with different technologies.
 
-## 🔧 Tech Stack:
-- 💻 Languages: JavaScript, TypeScript, Python, C#, C++
-- 📱 Frontend: React, React Native, Next.js, Zustand, Tailwind CSS, Material UI
-- 🛠 Backend: Flask, Node.js, SocketIO, REST API, bcrypt
-- 🎮 Game Dev: Unity, Godot
-- 🗄 Databases & Data Formats: SQL (PostgreSQL, MySQL, SQLite), JSON, XML
-- 📂 Other: Git
+Currently living inside [praHand3D](https://github.com/praHand3D) enviroment :)
 
-### 🧪 Experimenting with:
-- 🌱 Unreal Engine, Docker, Postman, AI, Bash, Swift, Java
+---
 
 ## 📌 Featured Projects
-- [🌐 Portfolio](http://www.portfolio.oliwiawaszczuk.pl) - Website showcasing my projects. 
-- [📱 Mobile App for learning](https://github.com/oliwiawaszczuk/praMory) –  A mobile app built with React Native, utilizing the Memory Palace technique – a powerful method for enhancing learning and memory. I'm still actively working on this project.
-- [🎮 Godot Game](https://github.com/oliwiawaszczuk/praFarm2M) – A 2D farming game developed with Godot.
-- [💬 Chat](https://github.com/oliwiawaszczuk/GoodSocket) – A real-time chat application built with React and Flask.
+- [🌐 Portfolio](http://www.portfolio.oliwiawaszczuk.pl) - Website showcasing my projects.
+- [praHand3D-website](https://prahand3d.github.io) - Work in progress.
 
 ## 📫 Contact Me
 - 📧 Email: oliwiawaszczuk12321@gmail.com
